@@ -1,7 +1,0 @@
-df = read.csv("data/train.csv")
-print(head(df))
-print(table(df$Sex))
-print("Survived:")
-print(mean(df$Survived))
-print("Combined:")
-print(table(df[c("Sex", "Survived")]))
