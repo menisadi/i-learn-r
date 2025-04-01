@@ -1,4 +1,4 @@
-# 📘 R for Statistical Analysis: Learning Plan
+# R for Statistical Analysis: Learning Plan
 
 A structured path to learn R with a focus on data science and statistics.
 
@@ -14,9 +14,8 @@ A structured path to learn R with a focus on data science and statistics.
   - [x] Lists
   - [x] Matrices
   - [x] Data frames
-  - [ ] Factors
-- [ ] Practice subsetting and indexing
-- [ ] Try `swirl` or `learnr` for interactive exercises
+  - [x] Factors
+- [x] Practice subsetting and indexing
 
 ---
 
