@@ -1,5 +1,7 @@
 # W3School - R Tutorial
+
 ## Intro
+
 - [x] Get Started
 - [x] Syntax
 - [x] Comments
@@ -16,14 +18,16 @@
 - [x] Functions
 
 ## Data Structures
-- [ ] Vectors
-- [ ] Lists
+
+- [x] Vectors
+- [x] Lists
 - [ ] Matrices
 - [ ] Arrays
 - [ ] Data Frames
 - [ ] Factors
 
 ## Graphics
+
 - [ ] Plot
 - [ ] Line
 - [ ] Scatterplot
@@ -31,6 +35,7 @@
 - [ ] Bars
 
 ## Statistics
+
 - [ ] Statistics Intro
 - [ ] Data Set
 - [ ] Max and Min
