@@ -21,12 +21,12 @@ A structured path to learn R with a focus on data science and statistics.
 
 ## ✅ Week 2: Data Manipulation with tidyverse
 
-- [ ] Install and load `tidyverse` package
-- [ ] Explore tibbles with `tibble`, data loading with `readr`
+- [x] Install and load `tidyverse` package
+- [x] Explore tibbles with `tibble`, data loading with `readr`
 - [ ] Use `dplyr` functions:
-  - [ ] `select`, `filter`
-  - [ ] `mutate`, `arrange`
-  - [ ] `group_by`, `summarise`
+  - [x] `select`, `filter`
+  - [x] `mutate`, `arrange`
+  - [x] `group_by`, `summarise`
 - [ ] Reshape data with `tidyr`:
   - [ ] `pivot_longer`, `pivot_wider`
   - [ ] `separate`, `unite`
