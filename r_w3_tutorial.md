@@ -21,7 +21,7 @@
 
 - [x] Vectors
 - [x] Lists
-- [ ] Matrices
+- [x] Matrices
 - [ ] Arrays
 - [ ] Data Frames
 - [ ] Factors
