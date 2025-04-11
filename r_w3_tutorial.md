@@ -22,9 +22,9 @@
 - [x] Vectors
 - [x] Lists
 - [x] Matrices
-- [ ] Arrays
-- [ ] Data Frames
-- [ ] Factors
+- [x] Arrays
+- [x] Data Frames
+- [x] Factors
 
 ## Graphics
 
