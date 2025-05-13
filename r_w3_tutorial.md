@@ -28,16 +28,16 @@
 
 ## Graphics
 
-- [ ] Plot
-- [ ] Line
-- [ ] Scatterplot
-- [ ] Pie Charts
-- [ ] Bars
+- [x] Plot
+- [x] Line
+- [x] Scatterplot
+- [x] Pie Charts
+- [x] Bars
 
 ## Statistics
 
-- [ ] Statistics Intro
-- [ ] Data Set
-- [ ] Max and Min
-- [ ] Mean Median Mode
-- [ ] Percentiles
+- [x] Statistics Intro
+- [x] Data Set
+- [x] Max and Min
+- [x] Mean Median Mode
+- [x] Percentiles
